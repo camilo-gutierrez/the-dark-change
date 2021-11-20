@@ -1,0 +1,22 @@
+.container-contain-information{
+    display: flex;
+    width: 100vw;
+    height: 70vh;
+    background-color: black;
+    border-bottom: solid 1px rgba(104, 102, 102, 0.616);
+    border-top: solid 1px rgba(104, 102, 102, 0.616);
+}
+
+.container-left-information{
+    width: 20vw;
+}
+
+.container-right-information{
+    width: 20vw;
+}
+
+.container-mid-contain-information{
+    width: 60vw;
+    border-left: solid 1px rgba(104, 102, 102, 0.616);
+    border-right: solid 1px rgba(104, 102, 102, 0.616);
+}

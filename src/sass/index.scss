@@ -1,0 +1,14 @@
+@import './variables.scss';
+@import './helper';
+@import '../components/atoms/footer/styles/footer';
+@import '../components/atoms/header/styles/header';
+@import '../components/molecules/cards/styles/cards';
+@import '../components/molecules/info/styles/info';
+@import '../components/objects/pages/bios/styles/bios';
+@import '../components/objects/pages/information/styles/information';
+
+*, html {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}

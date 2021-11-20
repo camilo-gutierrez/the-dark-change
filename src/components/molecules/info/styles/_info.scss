@@ -1,0 +1,44 @@
+ .container-div{
+     margin: 6em;
+ }
+
+ .container-info{
+    width: 40vw;
+    height: 40vh;
+    padding: 1rem;
+    position: relative;
+    background: linear-gradient(to right, rgb(245, 242, 242), rgba(90, 90, 90, 0));
+    padding: 3px;
+    border-radius: 10px;
+  }
+  .module-info {
+    background:  black;
+    color: white;  
+    width: 39vw;
+    height: 39vh;
+    border-radius: 10px;
+
+  }
+
+  .text-name-hero{
+      color: aliceblue;
+  }
+  .div-info{
+    display: flex;  
+    padding: .5rem;
+    flex-direction: row;
+    justify-content: space-between;
+    margin-right: 22rem;
+  }
+
+  .container-img{
+      display: flex;
+      position: absolute;
+      width: 62%;
+      left: 53vh;
+      bottom: 1vh;
+      height: 96%;
+      img{
+          border-radius: 10px;
+      }
+  }

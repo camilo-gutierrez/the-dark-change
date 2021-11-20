@@ -1,0 +1,22 @@
+.container-footer{
+    display: flex;
+    flex-direction: row;
+    width: 100vw;
+    height: 15vh;
+    background-color: black;
+    color: white;
+}
+
+.container-left{
+    width: 20vw;
+}
+
+.container-right{
+    width: 20vw;
+}
+
+.container-mid{
+    width: 60vw;
+    border-left: solid 1px white;
+    border-right: solid 1px white;
+}
